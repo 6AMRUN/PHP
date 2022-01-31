@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <!-- 
-   Student Name: Alexies Farinas
    File Name: Assignment 3 Part 3
    Date: 2/15/2021
 -->
