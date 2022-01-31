@@ -1,0 +1,39 @@
+header {
+    padding-top: 1em;
+    padding-bottom: 0.1em;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+footer {
+    padding-top: 1em;
+    padding-bottom: 0.1em;
+    text-align: center;
+    border-top: 1px solid black;
+}
+
+h2 {
+    font-size: 14pt;
+}
+
+h3 {
+    margin: 0 auto;
+    padding: 1em;
+    color: #000;  
+    font-size: 16pt;
+    text-align: left;                                                         
+}
+
+form {
+    margin: 0 auto;
+    padding: 1em;
+    color: #000;                                                            
+    text-align: left;                                                            
+}
+
+section {
+    margin: 0 auto;
+    padding: 1em;
+    color: #000;                                                               
+    text-align: left;                                                           
+}
